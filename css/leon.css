@@ -241,6 +241,8 @@ html{
 .Services .service-content .serv i{
     color: var(--main-color);
     flex-basis: 60px;
+    font-size: 30px;
+    margin-right: 9px
 }
 .Services .service-content .serv .test{
     flex: 1;
